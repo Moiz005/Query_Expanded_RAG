@@ -14,6 +14,3 @@ This project implements a **Query Expansion-based Retrieval-Augmented Generation
 ✅ Displays the matched context chunks for each query  
 
 ---
-
-## 📁 File Structure
-
